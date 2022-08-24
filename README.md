@@ -3,9 +3,8 @@
  - [Project Description](#Project-Description)
  - [Data Sources](#Data-Sources)
  - [Executive Summary](#Executive-Summary)
- - [Notebook Contents](#Notebook-Contents)
- - [Data Dictionary](#Data-Dictionary)
- - [Conclusion & Recommendations](#Conclusion-&-Recommendations)
+ - [Evaluation](#Evaluation)
+ - [Conclusion](#Conclusion)
  
 
 ## Project Description
